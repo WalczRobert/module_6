@@ -1,3 +1,8 @@
+"""
+Robert Walczak
+tests the multiply_string function with a known message and known n
+"""
+
 import more_functions.string_functions as string_func
 import unittest
 
